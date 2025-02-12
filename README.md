@@ -6,6 +6,4 @@ I collaborated with a team to analyze the application process for a Certificate 
 
 {google_docs}https://drive.google.com/file/d/1d8dBoZ8OwtxXFE8NyjdzHq_uE9S6Ki2y/view?usp=drive_link.pdf{/google_docs}
 
-http://view.officeapps.live.com/op/view.aspx?src=https://drive.google.com/file/d/1d8dBoZ8OwtxXFE8NyjdzHq_uE9S6Ki2y/view?usp=drive_link
-
 ## Data Analysis and Development
